@@ -80,3 +80,7 @@ sections:
     ref: 'v2.11'
   directory: open-service-broker
   subnav_template: cf-subnav.erb
+- repository:
+    name: cloudfoundry/docs-gsg-cf
+  directory: getting-started
+  subnav_template: cf-subnav.erb
